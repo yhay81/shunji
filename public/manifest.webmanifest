@@ -1,0 +1,16 @@
+{
+  "name": "瞬辞",
+  "short_name": "瞬辞",
+  "description": "すぐ引ける日本語・英語辞書",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2efe7",
+  "theme_color": "#f2efe7",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">瞬辞 — すぐ引ける日本語・英語辞書</title>
+  <desc id="desc">開いた辞書から一枚の辞書カードが現れ、単語札が重なる図</desc>
+  <rect width="1200" height="630" fill="#f2efe7"/>
+  <path d="M0 116h1200M0 514h1200" stroke="#c9c2b4" stroke-width="2"/>
+  <path d="M100 0v630M1100 0v630" stroke="#c9c2b4" stroke-width="2"/>
+  <g transform="translate(104 116)">
+    <rect x="0" y="0" width="428" height="398" fill="#fffdf7" stroke="#1e2a25" stroke-width="4" rx="8"/>
+    <rect x="0" y="0" width="56" height="398" fill="#237b59" stroke="#1e2a25" stroke-width="4" rx="8"/>
+    <text x="28" y="68" fill="#fff" font-family="serif" font-weight="700" font-size="34" text-anchor="middle">余</text>
+    <text x="88" y="70" fill="#65706a" font-family="sans-serif" font-size="18">よはく</text>
+    <text x="88" y="132" fill="#1e2a25" font-family="serif" font-weight="700" font-size="52">余白</text>
+    <path d="M88 166h302M88 243h302M88 320h302" stroke="#c9c2b4" stroke-width="2"/>
+    <circle cx="103" cy="194" r="13" fill="none" stroke="#c9c2b4" stroke-width="2"/>
+    <text x="103" y="200" fill="#65706a" font-family="sans-serif" font-size="15" text-anchor="middle">1</text>
+    <text x="132" y="200" fill="#1e2a25" font-family="serif" font-size="22">blank space; margin</text>
+    <circle cx="103" cy="270" r="13" fill="none" stroke="#c9c2b4" stroke-width="2"/>
+    <text x="103" y="276" fill="#65706a" font-family="sans-serif" font-size="15" text-anchor="middle">2</text>
+    <text x="132" y="276" fill="#1e2a25" font-family="serif" font-size="22">room; leeway</text>
+    <rect x="88" y="345" width="82" height="27" fill="none" stroke="#c9c2b4" stroke-width="2" rx="3"/>
+    <text x="129" y="364" fill="#65706a" font-family="sans-serif" font-size="13" text-anchor="middle">名詞</text>
+    <circle cx="430" cy="55" r="16" fill="#f2efe7" stroke="#1e2a25" stroke-width="4"/>
+  </g>
+  <g transform="translate(574 122) rotate(-4 170 100)">
+    <path d="M10 24c70-22 133-10 183 26v205c-54-37-115-47-183-23z" fill="#fffdf7" stroke="#1e2a25" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M376 24c-70-22-133-10-183 26v205c54-37 115-47 183-23z" fill="#fffdf7" stroke="#1e2a25" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M193 50v205" stroke="#1e2a25" stroke-width="4"/>
+    <path d="M44 76h108M44 110h124M44 144h94M44 178h113" stroke="#c9c2b4" stroke-width="4" stroke-linecap="round"/>
+    <text x="234" y="112" fill="#1e2a25" font-family="serif" font-size="40" font-weight="700">瞬辞</text>
+    <path d="M233 140h103M233 174h82M233 208h112" stroke="#c9c2b4" stroke-width="4" stroke-linecap="round"/>
+    <path d="M378 74h29v50h-29" fill="#d96b4b" stroke="#1e2a25" stroke-width="4"/>
+    <path d="M378 142h29v50h-29" fill="#e4b94f" stroke="#1e2a25" stroke-width="4"/>
+  </g>
+  <g transform="translate(738 382)">
+    <g transform="rotate(-10 112 66)">
+      <rect width="230" height="130" fill="#fffdf7" stroke="#1e2a25" stroke-width="4" rx="7"/>
+      <rect width="48" height="130" fill="#d96b4b" stroke="#1e2a25" stroke-width="4" rx="7"/>
+      <text x="24" y="79" fill="#fff" font-family="serif" font-weight="700" font-size="31" text-anchor="middle">間</text>
+      <path d="M78 47h118M78 77h86" stroke="#c9c2b4" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(64 42) rotate(4 112 66)">
+      <rect width="230" height="130" fill="#fffdf7" stroke="#1e2a25" stroke-width="4" rx="7"/>
+      <rect width="48" height="130" fill="#237b59" stroke="#1e2a25" stroke-width="4" rx="7"/>
+      <text x="24" y="79" fill="#fff" font-family="serif" font-weight="700" font-size="31" text-anchor="middle">辞</text>
+      <path d="M78 47h118M78 77h86" stroke="#c9c2b4" stroke-width="4" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g transform="translate(103 52)">
+    <path d="M0 26C0 10 12 0 28 0h34v54H28C12 54 0 42 0 26z" fill="#237b59"/>
+    <text x="31" y="36" fill="#fff" font-family="serif" font-size="28" font-weight="700" text-anchor="middle">瞬</text>
+    <text x="78" y="38" fill="#1e2a25" font-family="serif" font-size="32" font-weight="700">辞</text>
+    <text x="132" y="35" fill="#65706a" font-family="sans-serif" font-size="17" letter-spacing="4">JAPANESE ↔ ENGLISH</text>
+  </g>
+  <text x="1096" y="582" fill="#65706a" font-family="sans-serif" font-size="20" text-anchor="end">shunji.yhay81.com</text>
+</svg>
