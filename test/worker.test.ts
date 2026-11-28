@@ -34,9 +34,24 @@ const apiHeaders = (overrides: Record<string, string> = {}) => ({
 
 beforeAll(async () => {
   miniflare = new Miniflare({
-    d1Databases: { DB: "shunji-test" },
-    modules: true,
-    script: "export default { fetch() { return new Response('test') } }",
+    workers: [
+      {
+        config: {
+          name: "",
+          compatibilityDate: "2026-07-27",
+          env: { DB: { type: "d1", id: "shunji-test" } },
+          manifest: {
+            mainModule: "index.mjs",
+            modules: {
+              "index.mjs": {
+                type: "esm",
+                contents: "export default { fetch() { return new Response('test') } }",
+              },
+            },
+          },
+        },
+      },
+    ],
   });
   const database = await miniflare.getD1Database("DB");
   const migration = await readFile(migrationPath, "utf8");
